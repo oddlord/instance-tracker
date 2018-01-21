@@ -7,7 +7,7 @@ With the Instance Tracker package you'll be able to easily track and manage the 
 To install this package, first of all head to your code directory and clone this repository:
 
 ```sh
-git clone https://github.com/tommy39/instance-tracker.git
+git clone https://github.com/oddlord/instance-tracker.git
 cd instance-tracker
 ```
 
